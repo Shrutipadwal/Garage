@@ -111,6 +111,8 @@ Garage-Management-System/
 - Integration with payment gateways like Razorpay, PayPal
 - Role-based analytics dashboard
 
+📄 License
+This project is open-source and available under the [MIT License](LICENSE).
 
 
 
