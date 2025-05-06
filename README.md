@@ -88,6 +88,7 @@ Garage-Management-System/
     ```
 
 
+
 🎯 Objectives of the System
 
 - Automate manual garage processes
