@@ -15,6 +15,7 @@ The Garage Management System is a web-based software built using **PHP** and **M
 - Online Payments for Repairs and Services
 
 OUTPUT SCREENS:
+
 🔐 Login Page
 ![Screenshot (193)](https://github.com/user-attachments/assets/61e1c0fc-00f1-47e2-8839-195b7de29471)
 
