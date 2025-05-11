@@ -1,6 +1,6 @@
- 🚗 Garage Management System - PHP & MySQL
+ 🚗 Garage Management System 
 
-The Garage Management System is a web-based software built using **PHP** and **MySQL** designed to streamline and automate the operations of a garage or vehicle repair shop. It helps manage customers, vehicle service history, spare parts inventory, billing, and user roles like Admin, Supervisor, Mechanic, and Customer.
+The Garage Management System is a web-based software built using HTML, CSS, Bootstrap, PHP, and MySQL, designed to streamline and automate the operations of a garage or vehicle repair shop. It helps manage customers, vehicle service history, spare parts inventory, billing, and user roles like Admin, Supervisor, Mechanic, and Customer.
 
 🔧 Key Features
 
